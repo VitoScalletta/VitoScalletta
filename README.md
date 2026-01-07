@@ -66,6 +66,7 @@
 
 <br>
 ---
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=VitoScalletta&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
