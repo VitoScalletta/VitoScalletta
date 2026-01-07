@@ -11,10 +11,9 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/Devilyxrd"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-    <a href="https://www.linkedin.com/in/kaan-atalay-274b00263/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-    <a href="https://discord.com/users/791719890553274389"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-    <a href="https://instagram.com/Devilyxrd"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+    <a href="https://github.com/VitoScalletta"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+    <a href="https://www.linkedin.com/in/emrkain/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+    <a href="https://instagram.com/emrkain"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </div>
 
 </div>
@@ -27,7 +26,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"> 
-  <b>Focus Areas:</b> Animasyon, Efekt ve Modelleme & Java Learning.
+  <b>Focus Areas:</b> Animation, Effects & Modeling & Java Learning.
 </div>
 
 <br>
