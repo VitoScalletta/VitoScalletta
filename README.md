@@ -65,17 +65,7 @@
 </div>
 
 <br>
-
 ---
-
-<div align="center">
-
-### 🎧 Vibe With Me
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkss7c2lcsk6zjupynod725c6y&unique=true&count=4&width=400&background_color=0d1117&bar_color=53b14f&text_color=ffffff" alt="Spotify Recently Played" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=devilyxrd&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=VitoScalletta&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
