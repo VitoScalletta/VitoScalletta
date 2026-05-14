@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Muhammet%20Emre%20Kain&desc=Backend%20Software%20Developer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=A855F7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Emre%20Kain&desc=Backend%20Software%20Developer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=A855F7" width="100%"/>
 
 <br>
 
@@ -74,7 +74,7 @@
 <div align="center">
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoScalletta&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VitoScalletta&theme=tokyonight&hide_border=true)
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=VitoScalletta&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
