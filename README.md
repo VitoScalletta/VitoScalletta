@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Backend+Software+Developer;Java+%7C+Spring+Boot+Ecosystem;Microservices+%26+Event-Driven+Architecture;Building+Scalable+%26+Secure+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Backend+Software+Developer;Java+%7C+Spring+Boot+Ecosystem;TypeScript+%7C+Modern+APIs;Microservices+%26+Event-Driven+Architecture;Building+Scalable+%26+Secure+APIs" alt="Typing SVG" />
 </a>
 
 <br>
@@ -28,11 +28,12 @@
 <div align="left">
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50">
   
-  I am a backend-focused developer specializing in the **Java & Spring Boot** ecosystem. My primary focus is building resilient, scalable, and secure enterprise applications. 
+  I am a backend-focused developer specializing in the **Java & Spring Boot** ecosystem, currently expanding my architectural vision with modern technologies. My primary focus is building resilient, scalable, and secure enterprise applications. 
   
   - 🏗️ Transitioning from monolithic architectures to **Microservices**.
   - 🔄 Implementing **Event-Driven Architecture** with RabbitMQ (Saga Pattern).
   - 🛡️ Ensuring financial data consistency and API security using **Redis (Idempotency)**.
+  - 🚀 Expanding into the **Node.js ecosystem** with **TypeScript** for agile API development.
   - 🐳 Containerizing services and automating deployments via **Docker & GitHub Actions**.
 </div>
 
@@ -61,10 +62,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-#### 🚀 DevOps, Testing & Frontend
+#### 🚀 DevOps, Testing & Languages
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
